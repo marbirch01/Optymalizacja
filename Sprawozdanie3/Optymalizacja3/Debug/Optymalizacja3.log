@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ode_solver.cpp
+  opt_alg.cpp
+  solution.cpp
+  user_funs.cpp
+  Generowanie kodu...
+C:\Users\Matix13100\Desktop\Optymalizacja\Sprawozdanie3\user_funs.cpp(18): warning C4715: "g”: niewszystkie ścieżki kodu zwracają wartość
+  Optymalizacja3.vcxproj -> C:\Users\Matix13100\source\repos\Optymalizacja3\Debug\Optymalizacja3.exe
